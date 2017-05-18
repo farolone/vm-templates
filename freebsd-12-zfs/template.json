@@ -30,7 +30,7 @@
             "type": "DISK", 
             "name": "os", 
             "properties": {
-                "size": 10737418240,
+                "size": 32212254720,
                 "mode": "VIRTIO", 
                 "source": "os"
             }
